@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/.m2/repository/io/github/bonigarcia/webdrivermanager/5.3.2/webdrivermanager-5.3.2.jar" sourcepath="C:/Users/LENOVO/.m2/repository/io/github/bonigarcia/webdrivermanager/5.3.2/webdrivermanager-5.3.2-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="io.github.bonigarcia"/>
+			<attribute name="maven.artifactId" value="webdrivermanager"/>
+			<attribute name="maven.version" value="5.3.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/selenium-server-4.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
